@@ -25,7 +25,6 @@ gem 'turbolinks'
 
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 1.2'
-gem 'pry-rails'
 
 gem 'surveyor', :git => "https://github.com/HeHStudy/surveyor.git", :branch => "rails-5-multitenant"
 
